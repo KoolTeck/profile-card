@@ -114,7 +114,7 @@ body {
  flex-direction: row;
  margin-top: 30px;
  padding: 20px;
- border: 1px solid hsl(0, 0%, 59%);
+ border-top: 1px solid hsl(0, 0%, 59%);
 }
 
 /* media querries */
